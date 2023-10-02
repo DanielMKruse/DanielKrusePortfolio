@@ -1,0 +1,50 @@
+[
+    {
+        "title": "This Portfolio",
+        "date": "Aug 2023 - Oct 2023",
+        "tags": "Angular, HTML, CSS, TypeScript, JSON",
+        "desc": "This portfolio was programmed using the Angular framework, which is crucial for creating a responsive web application. The purpose of this portfolio is to greater present my accomplishments, skills, and education. This portfolio uses a component which converts JSON files into cards.",
+        "link": "",
+        "prev": "assets/portfolio.png"
+    },
+    {
+        "title": "Rolled Out Course Editor",
+        "date": "Aug 2023 - Sep 2023",
+        "tags": "Desktop Application, Visual Studio, C#, .NET, JSON",
+        "desc": "For a personal data study, this is a special JSON file editor which allows users to manage the order of stages to be played in the Rolled Out game. A full directory scan of existing stages is invoked, and the information for all stages is stored into a cache JSON file for quick reference. Other features of this project include fully-compatible importing and exporting of JSON files, drag-and-drop order changing, and UUID value generation.",
+        "link": "https://github.com/DanielMKruse/RolledOutCourseEditor",
+        "prev": "assets/rolled.png"
+    },
+    {
+        "title": "Mario Kart Shuffle",
+        "date": "Jun 2022 - Nov 2022",
+        "tags": "Game Modification, Automation, Command Line, Batch Scripts, Java, XML",
+        "desc": "This is a modification to the Mario Kart Wii game which makes quality-of-life changes and adds more content. Most of development involved a custom set of Windows commands (Wiimm's ISO Tools) and a Code Extension API (LE-CODE). I was able to automate repetitive tasks, such as commands and file managing, using Batch Scripts and Java. A major achievement of the project was the implementation of a Disk Image Patcher.",
+        "link": "https://wiki.tockdom.com/wiki/Mario_Kart_Shuffle",
+        "prev": "assets/mkshuffle.png"
+    },
+    {
+        "title": "T-Shirt Order Management System",
+        "date": "Oct 2021 - Nov 2021",
+        "tags": "Full-Stack, Desktop Application, MySQL Server",
+        "desc": "As a long-term project for an Advanced Java Programming class, I have developed my first full-stack desktop application used for managing T-Shirt orders. This application was written in Java, with MySQL Server integrated to handle the database. The source code has been archived to GitHub and can be viewed by following the hyperlink.",
+        "link": "https://github.com/DanielMKruse/TShirtOrderManagement",
+        "prev": "assets/tshirt.png"
+    },
+    {
+        "title": "Another Tetris",
+        "date": "Jan 2020 - May 2020",
+        "tags": "Web Application, Front-End, HTML, CSS, JavaScript, Phaser3 Game Engine",
+        "desc": "For the final project for an Advanced Web Programming class, I decided to make Tetris in the Phaser3 Game Engine. This time, it uses image-based visuals and advanced gameplay mechanics found in official modern Tetris games. You may try the game for yourself by following the hyperlink in the header.",
+        "link": "https://danielmkruse.github.io/Another-Tetris/",
+        "prev": "assets/anothertetris.png"
+    },
+    {
+        "title": "Tetris and Pentris",
+        "date": "Apr 2016 - May 2016",
+        "tags": "Desktop Application, Front-End, Java",
+        "desc": "For the final project of an AP Computer Science class back in high school, I had successfully remade Tetris through Java. Albeit the simple visuals, this remake follows most rules and guidelines from the official Nintendo Entertainment System release. As a bonus, I had also converted the project into another version replacing the tetrominoes with pentominoes. You may try both of these for yourself by following the hyperlink in the header.",
+        "link": "https://github.com/DanielMKruse/APCS-Tetris-and-Pentris",
+        "prev": "assets/tetrisjava.png"
+    }
+]
