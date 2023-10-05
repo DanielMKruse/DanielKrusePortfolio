@@ -4,7 +4,7 @@
         "date": "Aug 2023 - Oct 2023",
         "tags": "Angular, HTML, CSS, TypeScript, JSON",
         "desc": "This portfolio was programmed using the Angular framework, which is crucial for creating a responsive web application. The purpose of this portfolio is to greater present my accomplishments, skills, and education. This portfolio uses a component which converts JSON files into cards.",
-        "link": "",
+        "link": "https://github.com/DanielMKruse/DanielKrusePortfolio",
         "prev": "assets/portfolio.png"
     },
     {
