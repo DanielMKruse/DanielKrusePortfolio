@@ -1,0 +1,23 @@
+[
+    {
+        "tags": "Rasmussen University, Enrollment GPA of 3.87",
+        "date": "Aug 2021 - Mar 2023",
+        "title": "Bachelor of Science Degree in Computer Science",
+        "desc": "Having transferred from Dakota County Technical College, I had enrolled at Rasmussen University to pursue further education and a Bachelor's Degree. I was taught more advanced concepts such as Big Data, Development Cycles, Deployment Pipelines, Full-Stack Development, and their real-world applications to industries worldwide.",
+        "prev": "assets/rasmussen.png"
+    },
+    {
+        "tags": "Dakota County Technical College",
+        "date": "Aug 2018 - Dec 2020",
+        "title": "Associate of Applied Science Degree in Software Development",
+        "desc": "I had enrolled at Dakota County Technical College to further explore my passion for utilizing technology. The coursework has taught me valuable facets of developing enterprise-level technologies, such as Databases, Coding Practices, Debugging, and more.",
+        "prev": "assets/dctc.png"
+    },
+    {
+        "title": "Simley High School Graduate",
+        "date": "Sep 2014 - Jun 2018",
+        "tags": "High School Diploma, FIRST Robotics Competition",
+        "desc": "During my time at Simley High School, I had taken a variety of honors classes in addition to AP courses involving Calculus and Computer Science. I also participated as a team member in the FIRST Robotics Competition, where we had to design, construct, and program machines to participate in themed competitions.",
+        "prev": "assets/simley.png"
+    }
+]
