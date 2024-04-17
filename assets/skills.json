@@ -1,0 +1,44 @@
+[
+    {
+        "title": "Full-Stack Development",
+        "date": "",
+        "tags": "I am capable of performing Full-Stack development for both desktop and website applications, which involve Front-End (Program), Back-End (Database), and the correlations inbetween (Server). College Coursework taught me the processes behind it, such as Database Integration, Data Processing, and Server Security.",
+        "desc": "",
+        "prev": "assets/fullstack.png"
+    },
+    {
+        "title": "Desktop Programming",
+        "date": "8 Years Personal/Educated",
+        "tags": "Java, C#, Python, C++, Rust, Command Line, PowerShell, Batch Script",
+        "desc": "Most of my programming experiences come from building desktop applications, with Java and C# as my strongsuits. I am also strongly equipped to handle OS-relative tasks with Command Line and Batch Scripts.",
+        "prev": "assets/desktop.png"
+    },
+    {
+        "title": "Web Programming",
+        "date": "5 Years Personal/Educated",
+        "tags": "Angular, React, Svelte, HTML, CSS, JavaScript, Typescript, PHP",
+        "desc": "As a strong secondary, I have programmed several web applications through both coursework and personal studies. This ranges from the core foundations of HTML, CSS, and Javascript, all the way up to full-on frameworks such as Svelte, Angular, and React. I also understand other important fundamentals, such as common security practices, performance monitoring, and server hosting.",
+        "prev": "assets/web.png"
+    },
+    {
+        "title": "Databases and Servers",
+        "date": "4 Years Personal/Educated",
+        "tags": "Relational (SQL), Non-Relational (NoSQL), node.js, Express, Flask, SAS, XML, JSON",
+        "desc": "I avail a strongly educated understanding of databases, servers, and proper data management. While I primarily used SQL back in college, I also understand non-relational data formats, such as XML, SAS and JSON, and how they are occasionally greater in performance. Other experiences include server integration, security practices, healthy data management, and the importance of analytical studies to follow trends.",
+        "prev": "assets/database.png"
+    },
+    {
+        "title": "Version Control Systems",
+        "date": "",
+        "tags": "Git, Bash, GitHub",
+        "desc": "With an understanding of how systems are developed at the enterprise level, I have experience regarding version control systems, especially with the popular GitHub. I understand the processes behind deployment, such as branches, merging, archiving, and releasing.",
+        "prev": "assets/versioncontrol.png"
+    },
+    {
+        "title": "Miscellaneous",
+        "date": "",
+        "tags": "DevOps, CI/CD, Containers, Docker, Kubernetes, OpenShift, Django ORM, Bootstrap, Microservices, Serverless, Cloud-Native Technologies.",
+        "desc": "I have all-around knowledge and hands-on experience regarding enterprise-level environments and protocols. These include the adherence of development guidelines, use of modules and packages, continuous integration and deployment pipelines, and cloud-native technologies. I have a wealth of personal and educated experience surrounding many aspects of software development, and am quick to learning new things on demand.",
+        "prev": "assets/misc.png"
+    }
+]
